@@ -108,3 +108,11 @@ input[type = "file"] {
 }
 
 
+/* Divider */
+
+hr.solid {
+    border-top: 1px solid #E2E2E2;
+}
+
+/* Slider Libros */
+
